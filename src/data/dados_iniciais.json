@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "EGITO",
+      "link": "/",
+      "cor": "#864152",
+      "link_extra": {
+        "text": "Um país milenar com muitas histórias e contrastes.",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Viaje pelo Mundo! #HelloWorld",
+          "url": "https://www.youtube.com/watch?v=j9MQUvhoaeY"
+        },
+        {
+          "titulo": "As PIRÂMIDES do EGITO - Cairo ",
+          "url": "https://www.youtube.com/watch?v=R0hn9U3_hGw&list=PLmL42OUpXPgqWMkBA_noSJg6rQKR3jH5-&index=2"
+        },
+        {
+          "titulo": "COPTAS, quem são? - Cairo ",
+          "url": "https://www.youtube.com/watch?v=QG0qW3BvDs8&list=PLmL42OUpXPgqWMkBA_noSJg6rQKR3jH5-&index=3"
+        },
+        {
+          "titulo": "MUSEU DO CAIRO e os TESOUROS dos FARAÓS ",
+          "url": "https://www.youtube.com/watch?v=3a39OBGaYCs&list=PLmL42OUpXPgqWMkBA_noSJg6rQKR3jH5-&index=5"
+        },
+        {
+          "titulo": "Os TEMPLOS mais FAMOSOS do ANTIGO EGITO ",
+          "url": "https://www.youtube.com/watch?v=YNpG73iNssM&list=PLmL42OUpXPgqWMkBA_noSJg6rQKR3jH5-&index=8"
+        },
+        {
+          "titulo": "ALEXANDRIA conheça seu CASTELO e a incrível BIBLIOTECA ",
+          "url": "https://www.youtube.com/watch?v=_uiyrPp1V0o&list=PLmL42OUpXPgqWMkBA_noSJg6rQKR3jH5-&index=13"
+        }      
+      ]
+    },
+    {
+      "titulo": "ÍNDIA",
+      "cor": "#9533a1",
+      "link_extra": {
+        "text": "A Índia é a segunda entidade geográfica com maior diversidade cultural, linguística e genética do mundo.",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Como é VOAR com a AIR INDIA? ÍNDIA",
+          "url": "https://www.youtube.com/watch?v=XXZkg4TlwOI&list=PLmL42OUpXPgqWL4nVksJSf0c068pISwHr"
+        },
+        {
+          "titulo": "O icônico PORTAL DA ÍNDIA em MUMBAI",
+          "url": "https://www.youtube.com/watch?v=rXaFvb9tUPU&list=PLmL42OUpXPgqWL4nVksJSf0c068pISwHr&index=2"
+        },
+        {
+          "titulo": "DELHI a CAPITAL da ÍNDIA ",
+          "url": "https://www.youtube.com/watch?v=APrICXGJeME&list=PLmL42OUpXPgqWL4nVksJSf0c068pISwHr&index=3"
+        },
+        {
+          "titulo": "A história do FORTE AMBER e o famoso POÇO CHAND BAORI em JAIPUR",
+          "url": "https://www.youtube.com/watch?v=OVHNtveKkAo&list=PLmL42OUpXPgqWL4nVksJSf0c068pISwHr&index=7"
+        }, 
+        {
+          "titulo": "A CONSTRUÇÃO do TAJ MAHAL, qual a sua história?",
+          "url": "https://www.youtube.com/watch?v=K7VFtHYeggg&list=PLmL42OUpXPgqWL4nVksJSf0c068pISwHr&index=10"
+        }
+      ]
+    },
+    {
+      "titulo": "MARROCOS",
+      "cor": " #b4003c",
+      "link_extra": {
+        "text": "Marrocos é uma país pouco explorado pelos brasileiros e merece um olhar mais detalhado.",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "O ENCANTADOR DE SERPENTES E A DIFERENÇA CULTURAL EM MARRAKESH",
+          "url": "https://www.youtube.com/watch?v=H9H61QDa0_E&list=PLmL42OUpXPgqihJZ7UZH15-T1KmYUCHjy&index=8"
+        },
+        {
+          "titulo": "Casablanca - Marrocos",
+          "url": "https://www.youtube.com/watch?v=ZzEMylQInLQ&list=PLmL42OUpXPgqihJZ7UZH15-T1KmYUCHjy&index=1"
+        },
+        {
+          "titulo": "Meknes e Volubilis - Marrocos",
+          "url": "https://www.youtube.com/watch?v=3oOoaSjGV2Q&list=PLmL42OUpXPgqihJZ7UZH15-T1KmYUCHjy&index=3"
+        },
+        {
+          "titulo": "Como é por dentro de uma Medina em Fez?",
+          "url": "https://www.youtube.com/watch?v=THmj7T8Nkg8&list=PLmL42OUpXPgqihJZ7UZH15-T1KmYUCHjy&index=4"
+        },
+        {
+          "titulo": "Como é voar de Royal Air Maroc?",
+          "url": "https://www.youtube.com/watch?v=9kUJhXSTxRc&list=PLmL42OUpXPgqihJZ7UZH15-T1KmYUCHjy&index=9"
+        }
+      ]
+    },
+    {
+      "titulo": "AZERBAIJÃO & GEÓRGIA",
+      "cor": "green",
+      "link_extra": {
+        "text": "São países, que pertencem à um lugar ao redor do mundo que irá te surpreender.",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "A surpreendente BAKU | AZERBAIJÃO",
+          "url": "https://www.youtube.com/watch?v=LNjSYnlA5zs&list=PLmL42OUpXPgqLTgPlWZNRPiEIuHzdpDsN&index=6"
+        },
+        {
+          "titulo": "Os TESOUROS escondidos de Gobustan",
+          "url": "https://www.youtube.com/watch?v=soWXYMlNvjs&list=PLmL42OUpXPgqLTgPlWZNRPiEIuHzdpDsN&index=7"
+        },
+        {
+          "titulo": "Os encantos de Tiblissi - Geórgia",
+          "url": "https://www.youtube.com/watch?v=wchNKCuQry4&list=PLmL42OUpXPgqLTgPlWZNRPiEIuHzdpDsN&index=1"
+        },
+        {
+          "titulo": "Geórgia - Pontos Turísticos em Tblissi",
+          "url": "https://www.youtube.com/watch?v=7K6FKRCEqZc&list=PLmL42OUpXPgqLTgPlWZNRPiEIuHzdpDsN&index=2"
+        },
+        {
+          "titulo": "Uplistsikhe - Um lugar cheio de história e a casa onde Stalin viveu",
+          "url": "https://www.youtube.com/watch?v=Ka0NNdI7gxA&list=PLmL42OUpXPgqLTgPlWZNRPiEIuHzdpDsN&index=4"
+        }
+      ]
+    },
+    {
+      "titulo": "TAILÂNDIA",
+      "cor": "yellow",
+      "link_extra": {
+        "text": "Tailândia é conhecida pelas suas belas ilhas, e também pela sua cultura exótica.",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Os incríveis templos de Bangkok - Tailândia",
+          "url": "https://www.youtube.com/watch?v=M7G3tAFQ1Ig&list=PLmL42OUpXPgocG_lmGTPiFbAYEeZ5nAvo"
+        },
+        {
+          "titulo": "O mercado flutuante de Bangkok",
+          "url": "https://www.youtube.com/watch?v=XIvzAm0s_4o&list=PLmL42OUpXPgocG_lmGTPiFbAYEeZ5nAvo&index=3"
+        },
+        {
+          "titulo": "As praias de Phi Phi ",
+          "url": "https://www.youtube.com/watch?v=mW-bj9zZpfI&list=PLmL42OUpXPgocG_lmGTPiFbAYEeZ5nAvo&index=5"
+        },
+        {
+          "titulo": "Culinária Tailandesa - O que tomar na Tailândia.",
+          "url": "https://www.youtube.com/watch?v=CoQcwB3q_34&list=PLmL42OUpXPgocG_lmGTPiFbAYEeZ5nAvo&index=6"
+        },
+        {
+          "titulo": "Tailândia - Ilhas e Praias",
+          "url": "https://www.youtube.com/watch?v=vTUnlR6SZfI&list=PLmL42OUpXPgocG_lmGTPiFbAYEeZ5nAvo&index=7s"
+        }
+      ]
+    },
+    {
+      "titulo": "ISRAEL",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Lugar descrito muitas vezes nos evangelhos ",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "CAFARNAUM - A CIDADE de JESUS",
+          "url": "https://www.youtube.com/watch?v=2t7Uj9NVnCM"
+        },
+        {
+          "titulo": "O LUGAR do BATISMO de JESUS - Rio Jordão",
+          "url": "https://www.youtube.com/watch?v=yOK8SRK1qMk"
+        },
+        {
+          "titulo": "O TABERNÁCULO de MOISÉS ",
+          "url": "https://www.youtube.com/watch?v=7lklqwmi3F8"
+        },
+        {
+          "titulo": "CESARÉIA de FILIPE | Israel - QUEM as PESSOAS dizem QUE SOU?",
+          "url": "https://www.youtube.com/watch?v=XGjewCPFoMQ"
+        },
+        {
+          "titulo": "Por onde JESUS ANDOU em NAZARÉ?",
+          "url": "https://www.youtube.com/watch?v=c4Ks3wP7uDU"
+        }
+      ]
+    }
+  ]
+}
